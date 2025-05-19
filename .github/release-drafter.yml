@@ -1,0 +1,2 @@
+_extends: .github
+tag-template: netty-api-$NEXT_MINOR_VERSION
